@@ -3,7 +3,7 @@ Commission Api
 
 PHP class for FBS commission api
 
-Expmple:
+Example:
 
 ```php
   <?php
