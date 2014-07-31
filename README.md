@@ -1,9 +1,9 @@
-CommissionApi
+Commission Api
 =============
 
 PHP class for FBS commission api
 
-Expample:
+Expmple:
 
 ```php
   <?php
